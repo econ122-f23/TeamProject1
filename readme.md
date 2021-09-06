@@ -13,7 +13,7 @@ Use `ggplot2` to create graphs that can answer the following questions. For each
 3. Create 1-2 interactive graphs that you find interesting. You can modify any of your previous graphs (from 1 or 2), or look at completely new aspects of the data. Explain the goal of each graph(s) and briefly explain what weather trends it shows. 
 
 ## Turn in:
-Push your .Rmd to GitHub by Monday, Sep. 30 11:50PM. Hide all code in your knitted doc so I just see graphs, interpretations, and section headers for each part. (Note if you use Shiny graphs for part 3 you won't have a .md file to push.)
+Push your .Rmd to GitHub by Monday, Sep. 27 11:59PM. Hide all code in your knitted doc so I just see graphs, interpretations, and section headers for each part. (Note if you use Shiny graphs for part 3 you won't have a .md file to push.)
 
 ## Variables:
 
@@ -53,6 +53,6 @@ Two-point scale for
 
 - style and readability: is the code readable and appropriately commented
   - 2 = readable and sufficient comments
-  - 1 = mostly reable but contains one or more portions that could be written in a more clear manner
+  - 1 = mostly readable but contains one or more portions that could be written in a more clear manner
   - 0 = most code could be written in a more readable manner 
 

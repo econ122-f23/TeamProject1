@@ -10,7 +10,7 @@ Use `ggplot2` to create graphs that can answer the following questions. For each
 
 1. Suppose you don't like big daily temperature swings and cloudy days. Which month(s) or time of year have the most consistent daily temps? the most variable daily temps? Which month(s) or time of year have the most sunny days? the fewest sunny days?
 2. Consider 2016 weather data. Which regions or states  have the most consistent daily temps? the most variable daily temps? Which regions or states have the most sunny days? the fewest sunny days?
-3. What criteria are important to you for choosing a city to live in? Create some figures that help make the case for living in a particular city. Would you choose one particular city to live in year round or would you move to different cities depending on the season?
+3. What criteria are important to you for choosing a city to live in? Create some figures that help determine which city you would live in based on that criteria. Would you choose one particular city to live in year round or would you migrate to different locations depending on the season?
 
 ## Turn in:
 Push your .Rmd and .md to GitHub by Monday, Sep. 27 11:59PM. Hide all code in your knitted doc so I just see graphs, interpretations, and section headers for each part. 

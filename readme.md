@@ -13,7 +13,7 @@ Use `ggplot2` to create graphs that can answer the following questions. For each
 3. What criteria are important to you for choosing a city to live in? Create some figures that help determine which city you would live in based on that criteria. Would you choose one particular city to live in year round or would you migrate to different locations depending on the season?
 
 ## Turn in:
-Push your .Rmd and .md to GitHub by Wed, Sep. 28 11:59PM. Hide all code in your knitted doc so I just see graphs, interpretations, and section headers for each part. 
+Push your .Rmd and .md to GitHub by Tue, Sep. 27 11:59PM. Hide all code in your knitted doc so I just see graphs, interpretations, and section headers for each part. 
 
 ## Variables:
 
